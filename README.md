@@ -6,3 +6,5 @@ Toi evaluate the correlation between stocks we used two different measures:
 
 * Spearman
 * Kendall
+
+The work is made from Andrea Marcocchia and Matteo Manzari
