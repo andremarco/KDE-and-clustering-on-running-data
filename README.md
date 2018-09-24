@@ -1,5 +1,7 @@
 # KDE-and-clustering-on-running-data
 
+**To properly visualize the code, choice the raw data visualization of the .Rmd file**
+
 ## Part 1
 Estimate and visualize properly and meaningfully the density of latitude and longitude data (Kernel Density Estimation)
 Figure out a way to single out the places where the runner run the most.
